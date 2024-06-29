@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, my name is David Schurer
+
+* I'm currently in my last quarter pursuing a B.S. in Computer Science and Software Engineering at the University of Washington Bothell
+* My technical experience includes programming in C++, HTML, CSS, JavaScript, React, and Next.js
+* I have previous internship experience as a Data Management/Analyst, currently looking for internships/entry level tech roles
+* Feel free to reach out and connect with me! I am looking to collaborate on new projects and I'm interested in front end development
+
+  
 
 <!--
 **DavidSchurer/DavidSchurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

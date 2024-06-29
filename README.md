@@ -5,8 +5,8 @@
 * I have previous internship experience as a Data Management/Analyst, currently looking for internships/entry level tech roles
 * Feel free to reach out and connect with me! I am looking to collaborate on new projects and I'm interested in front end development
 
-<strong>Email:</strong> david.schurer@yahoo.com <br/>
-<strong>LinkedIn:</strong> https://www.linkedin.com/in/david-schurer/
+  <strong>Email:</strong> david.schurer@yahoo.com <br/>
+  <strong>LinkedIn:</strong> https://www.linkedin.com/in/david-schurer/
 
   
 

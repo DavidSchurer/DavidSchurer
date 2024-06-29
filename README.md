@@ -1,4 +1,4 @@
-## Hi, my name is David Schurer
+## Hi, I'm David Schurer
 
 * I'm currently in my last quarter pursuing a B.S. in Computer Science and Software Engineering at the University of Washington Bothell
 * My technical experience includes programming in C++, HTML, CSS, JavaScript, React, and Next.js

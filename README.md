@@ -3,7 +3,7 @@
 * I'm a recent graduate from The University of Washington Bothell with a B.S. in Computer Science and Software Engineering
 * My technical experience includes programming in C++, HTML, CSS, JavaScript, React, and Next.js
 * I have previous internship experience as a Data Management/Analyst, currently looking for internships/entry level tech roles
-* I am interested in front end development and looking to collaborate on projects!
+* I have experience with frontend development through various projects, and I'm interested in learning new technologies and frameworks!
 
   <strong>Email:</strong> david.schurer@yahoo.com <br/>
   <strong>LinkedIn:</strong> https://www.linkedin.com/in/david-schurer/
